@@ -12,15 +12,15 @@ export const Navbar = () => {
           <Link to="/">Home</Link>
         </li>
         <li>
-          <Link to="/experts">Team</Link>
+          <Link to="/experts">About Us</Link>
         </li>
 
-        <li>
+        {/* <li>
           <Link to="/faq">Faq</Link>
         </li>
         <li>
           <Link to="/blog">Blog</Link>
-        </li>
+        </li> */}
         {/* <li>
           <div className="button-container">
             <button

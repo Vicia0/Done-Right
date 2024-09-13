@@ -56,15 +56,14 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-            StrongSister is dedicated to empowering Burundian women and girls by providing tools and resources to combat gender-based violence, 
-            ensuring their safety, and promoting a culture of support and resilience throughout the community.
+            is committed to delivering high-quality paving stones and cement-based products, designed to enhance both the durability and beauty of your outdoor spaces. Specializing in paving stones and edging solutions, we provide reliable and affordable options that meet the needs of residential and commercial projects. Our craftsmanship and dedication to excellence ensure that every product is built to last, adding value and aesthetic appeal to every project.
             </p>
             
           
           </div>
 
         <ModalVideo
-            image={"/new.jpg"}
+            image={"/logo.png"}
             imageWidth={600}
             imageHeight={576}
             imageAlt="Main image"

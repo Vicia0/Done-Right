@@ -6,9 +6,9 @@ export default function Zigzag() {
         <div className="py-12 md:py-20 border-t border-gray-800">
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-red-600 bg-red-100 rounded-full mb-4">
-            Empowering Women, Together            </div>
-            <h1 className="h2 mb-4">One App, Boundless Support</h1>
+            <div className="inline-flex text-sm font-semibold py-1 px-3 m-2 text-blue-600 bg-blue-100 rounded-full mb-4">
+            Done Right fabricators ltd            </div>
+            <h1 className="h2 mb-4">One Business, Endless Possibilities</h1>
           </div>
 
           {/* Items */}
@@ -22,7 +22,7 @@ export default function Zigzag() {
               >
                 <img
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={"/fille.jpg"}
+                  src={"/H.png"}
                   width={540}
                   height={405}
                   alt="Features 01"
@@ -34,13 +34,12 @@ export default function Zigzag() {
                 data-aos="fade-right"
               >
                 <div className="md:pr-4 lg:pr-12 xl:pr-16">
-                  <div className="font-architects-daughter text-xl text-red-600 mb-2">
-                  Gender-Based Violence in Burundi
+                  <div className="font-architects-daughter text-xl text-blue-600 mb-2">
+                    H paving stones
                   </div>
                   <h3 className="h3 mb-3">What about it?</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                  Gender-based violence is a significant issue in Burundi, with over 10,000 reported cases of rape and thousands of domestic violence incidents in the past three years. Young girls face high rates of sexual harassment, compounded by limited access to support systems and resources. The lack of timely help, coupled with the stigma and fear of reporting, leaves many victims vulnerable and traumatized, posing severe threats to their safety and well-being.
-                  </p>
+                   Discover our durable, high-quality interlocking paving stones, designed to provide a strong foundation for any outdoor space. Perfect for driveways, walkways, and patios, these cement-based pavers are built to last and add a unique aesthetic to your landscaping projects.                  </p>
                 </div>
               </div>
             </div>
@@ -54,7 +53,7 @@ export default function Zigzag() {
               >
                 <img
                   className="max-w-full mx-auto md:max-w-none h-auto"
-                  src={"/consult.png"}
+                  src={"/round.png"}
                   width={540}
                   height={405}
                   alt="Features 02"
@@ -66,13 +65,12 @@ export default function Zigzag() {
                 data-aos="fade-left"
               >
                 <div className="md:pl-4 lg:pl-12 xl:pl-16">
-                  <div className="font-architects-daughter text-xl text-red-600 mb-2">
-                    Proposed solution
+                  <div className="font-architects-daughter text-xl text-blue-600 mb-2">
+                   Round paving stones
                   </div>
-                  <h3 className="h3 mb-3">By Burundian Women, For Burundian Women</h3>
+                  <h3 className="h3 mb-3">What about it?</h3>
                   <p className="text-xl text-gray-400 mb-4">
-                  To address the pervasive issue of gender-based violence, StrongSister provides accessible and effective tools tailored to the specific needs of Burundian women. Our app empowers women with emergency calling, incident reporting, incident recording, safe contacts, and comprehensive resources. By leveraging these solutions, women can enhance their safety, seek timely help, and protect their well-being and dignity.
-                  </p>
+                  Our hexagonal paving stones offer a modern, stylish solution for your outdoor projects. Available in a mix of neutral and vibrant colors, these durable cement-based pavers are perfect for creating eye-catching patterns that enhance the visual appeal of any space                  </p>
                 </div>
               </div>
             </div>
